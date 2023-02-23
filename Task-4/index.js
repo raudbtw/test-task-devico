@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let clickCount5 = 0;
   let clickCount6 = 0;
 
-  // Create the first element (large square)
+  // Create the first element
   const div1 = document.createElement("div");
   div1.style.width = "200px";
   div1.style.height = "200px";
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   document.body.appendChild(div1);
 
-  // Create the second element (right middle square)
+  // Create the second element 
   const div2 = document.createElement("div");
   div2.style.width = "300px";
   div2.style.height = "100px";
@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   document.body.appendChild(div2);
 
-  // Create the third element (top square)
+  // Create the third element
   const div3 = document.createElement("div");
   div3.style.width = "150px";
   div3.style.height = "50px";
@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   document.body.appendChild(div3);
 
-  // Create the fourth element (left middle square)
+  // Create the fourth element
   const div4 = document.createElement("div");
   div4.style.width = "150px";
   div4.style.height = "50px";
@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   document.body.appendChild(div4);
 
-  // Create the fifth element (bottom left square)
+  // Create the fifth element 
   const div5 = document.createElement("div");
   div5.style.width = "150px";
   div5.style.height = "50px";
@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   document.body.appendChild(div5);
   6;
-  // Create the sixth element (bottom right square)
+  // Create the sixth element
   const div6 = document.createElement("div");
   div6.style.width = "150px";
   div6.style.height = "50px";
