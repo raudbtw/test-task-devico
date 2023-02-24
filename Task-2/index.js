@@ -1,3 +1,4 @@
+"use strict";
 function replaceOnesWithZeros(obj) {
   if (typeof obj === "object") {
     for (let key in obj) {
