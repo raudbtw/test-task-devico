@@ -1,3 +1,4 @@
+"use strict";
 let result = 0;
 
 function calc(num, operator) {
