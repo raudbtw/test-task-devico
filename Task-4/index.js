@@ -1,3 +1,4 @@
+"use strict";
 document.addEventListener("DOMContentLoaded", () => {
   let clickCount1 = 0;
   let clickCount2 = 0;
