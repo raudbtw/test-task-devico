@@ -1,3 +1,4 @@
+"use strict";
 function createMatrix(n) {
   const matrix = [];
   for (let i = 0; i < n; i++) {
