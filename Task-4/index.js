@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
   div6.addEventListener("click", () => {
     clickCount6++;
     div6.innerText = `${clickCount6}`;
-    div6.style.backgroundColor = "pinq";
+    div6.style.backgroundColor = "aqua";
   });
   document.body.appendChild(div6);
 });
